@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#080808">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Quran Flash">
+<link rel="apple-touch-icon" href="assets/icons/icon-192x192.png">
+<link rel="apple-touch-startup-image" href="assets/icons/icon-512x512.png">
+<link rel="manifest" href="manifest.json">
+<title>Quran Flash System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+<header>
+  <div class="top-row">
+    <span class="logo">﷽  Quran Flash System</span>
+    <button id="themeToggle" class="theme-btn" title="Tukar tema">🌙</button>
+  </div>
+  <div class="meta-row">
+    <span id="surahName">—</span>
+    <span id="ayahInfo">—</span>
+    <span id="revelation"></span>
+  </div>
+</header>
+
+<div class="search-row">
+  <input type="text" id="searchInput" placeholder="Cari surah (nama / nombor)...">
+  <button class="btn" id="searchBtn">Cari</button>
+</div>
+
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="read">📖 Baca</button>
+  <button class="tab-btn" data-tab="history">📜 Sejarah <span class="badge-count" id="readCount">0</span></button>
+  <button class="tab-btn" data-tab="stats">📊 Stat</button>
+</div>
+
+<main>
+  <!-- Read Tab -->
+  <div id="readTab" style="display:flex;flex-direction:column;flex:1;overflow:hidden">
+    <div id="chat"></div>
+
+    <div id="controls">
+      <div class="ctrl-row">
+        <label>Surah</label>
+        <input type="number" id="surahInput" min="1" max="114">
+        <label>Dari</label>
+        <input type="number" id="ayahFrom" min="1">
+        <label>Ke</label>
+        <input type="number" id="ayahTo" min="1">
+        <label>Bhs</label>
+        <select id="langSelect">
+          <option value="ms">Melayu</option>
+          <option value="en">English</option>
+          <option value="none">Arab sahaja</option>
+          <option value="tafsir-muyassar">Tafsir Muyassar</option>
+          <option value="tafsir-jalalayn">Tafsir Jalalayn</option>
+          <option value="tafsir-ar-ibn-kathir">Tafsir Ibn Kathir (Arab)</option>
+          <option value="tafsir-en-ibn-kathir">Tafsir Ibn Kathir (Inggeris)</option>
+        </select>
+      </div>
+      <div class="ctrl-row nav-row">
+        <button class="nav-btn" id="prevBtn">‹</button>
+        <button class="btn btn-selesai" id="selesaiBtn" disabled>✅ Selesai Baca</button>
+        <button class="nav-btn" id="nextBtn">›</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- History Tab -->
+  <div id="historyTab" style="display:none">
+    <div class="hist-header">
+      <h3>Sejarah Bacaan</h3>
+      <button class="btn-danger" id="clearHistory">Padam Semua</button>
+    </div>
+    <div id="historyPanel"></div>
+  </div>
+
+  <!-- Stats Tab -->
+  <div id="statsTab" style="display:none">
+    <div id="statsPanel"></div>
+  </div>
+</main>
+
+<div class="footer-info">offline-first · monospace · quran flash</div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(function(err) {
+    console.error('SW registration failed:', err);
+  });
+}
+</script>
+<script src="app.js"></script>
+</body>
+</html>
