@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "nameAr": "سُورَةُ ٱلْفَاتِحَةِ",
+    "name": "Al-Faatiha",
+    "revelation": "Makkah",
+    "versesCount": 7
+  },
+  {
+    "id": 2,
+    "nameAr": "سُورَةُ البَقَرَةِ",
+    "name": "Al-Baqara",
+    "revelation": "Madinah",
+    "versesCount": 286
+  },
+  {
+    "id": 3,
+    "nameAr": "سُورَةُ آلِ عِمۡرَانَ",
+    "name": "Aal-i-Imraan",
+    "revelation": "Madinah",
+    "versesCount": 200
+  },
+  {
+    "id": 4,
+    "nameAr": "سُورَةُ النِّسَاءِ",
+    "name": "An-Nisaa",
+    "revelation": "Madinah",
+    "versesCount": 176
+  },
+  {
+    "id": 5,
+    "nameAr": "سُورَةُ المَائـِدَةِ",
+    "name": "Al-Maaida",
+    "revelation": "Madinah",
+    "versesCount": 120
+  },
+  {
+    "id": 6,
+    "nameAr": "سُورَةُ الأَنۡعَامِ",
+    "name": "Al-An'aam",
+    "revelation": "Makkah",
+    "versesCount": 165
+  },
+  {
+    "id": 7,
+    "nameAr": "سُورَةُ الأَعۡرَافِ",
+    "name": "Al-A'raaf",
+    "revelation": "Makkah",
+    "versesCount": 206
+  },
+  {
+    "id": 8,
+    "nameAr": "سُورَةُ الأَنفَالِ",
+    "name": "Al-Anfaal",
+    "revelation": "Madinah",
+    "versesCount": 75
+  },
+  {
+    "id": 9,
+    "nameAr": "سُورَةُ التَّوۡبَةِ",
+    "name": "At-Tawba",
+    "revelation": "Madinah",
+    "versesCount": 129
+  },
+  {
+    "id": 10,
+    "nameAr": "سُورَةُ يُونُسَ",
+    "name": "Yunus",
+    "revelation": "Makkah",
+    "versesCount": 109
+  },
+  {
+    "id": 11,
+    "nameAr": "سُورَةُ هُودٍ",
+    "name": "Hud",
+    "revelation": "Makkah",
+    "versesCount": 123
+  },
+  {
+    "id": 12,
+    "nameAr": "سُورَةُ يُوسُفَ",
+    "name": "Yusuf",
+    "revelation": "Makkah",
+    "versesCount": 111
+  },
+  {
+    "id": 13,
+    "nameAr": "سُورَةُ الرَّعۡدِ",
+    "name": "Ar-Ra'd",
+    "revelation": "Madinah",
+    "versesCount": 43
+  },
+  {
+    "id": 14,
+    "nameAr": "سُورَةُ إِبۡرَاهِيمَ",
+    "name": "Ibrahim",
+    "revelation": "Makkah",
+    "versesCount": 52
+  },
+  {
+    "id": 15,
+    "nameAr": "سُورَةُ الحِجۡرِ",
+    "name": "Al-Hijr",
+    "revelation": "Makkah",
+    "versesCount": 99
+  },
+  {
+    "id": 16,
+    "nameAr": "سُورَةُ النَّحۡلِ",
+    "name": "An-Nahl",
+    "revelation": "Makkah",
+    "versesCount": 128
+  },
+  {
+    "id": 17,
+    "nameAr": "سُورَةُ الإِسۡرَاءِ",
+    "name": "Al-Israa",
+    "revelation": "Makkah",
+    "versesCount": 111
+  },
+  {
+    "id": 18,
+    "nameAr": "سُورَةُ الكَهۡفِ",
+    "name": "Al-Kahf",
+    "revelation": "Makkah",
+    "versesCount": 110
+  },
+  {
+    "id": 19,
+    "nameAr": "سُورَةُ مَرۡيَمَ",
+    "name": "Maryam",
+    "revelation": "Makkah",
+    "versesCount": 98
+  },
+  {
+    "id": 20,
+    "nameAr": "سُورَةُ طه",
+    "name": "Taa-Haa",
+    "revelation": "Makkah",
+    "versesCount": 135
+  },
+  {
+    "id": 21,
+    "nameAr": "سُورَةُ الأَنبِيَاءِ",
+    "name": "Al-Anbiyaa",
+    "revelation": "Makkah",
+    "versesCount": 112
+  },
+  {
+    "id": 22,
+    "nameAr": "سُورَةُ الحَجِّ",
+    "name": "Al-Hajj",
+    "revelation": "Madinah",
+    "versesCount": 78
+  },
+  {
+    "id": 23,
+    "nameAr": "سُورَةُ المُؤۡمِنُونَ",
+    "name": "Al-Muminoon",
+    "revelation": "Makkah",
+    "versesCount": 118
+  },
+  {
+    "id": 24,
+    "nameAr": "سُورَةُ النُّورِ",
+    "name": "An-Noor",
+    "revelation": "Madinah",
+    "versesCount": 64
+  },
+  {
+    "id": 25,
+    "nameAr": "سُورَةُ الفُرۡقَانِ",
+    "name": "Al-Furqaan",
+    "revelation": "Makkah",
+    "versesCount": 77
+  },
+  {
+    "id": 26,
+    "nameAr": "سُورَةُ الشُّعَرَاءِ",
+    "name": "Ash-Shu'araa",
+    "revelation": "Makkah",
+    "versesCount": 227
+  },
+  {
+    "id": 27,
+    "nameAr": "سُورَةُ النَّمۡلِ",
+    "name": "An-Naml",
+    "revelation": "Makkah",
+    "versesCount": 93
+  },
+  {
+    "id": 28,
+    "nameAr": "سُورَةُ القَصَصِ",
+    "name": "Al-Qasas",
+    "revelation": "Makkah",
+    "versesCount": 88
+  },
+  {
+    "id": 29,
+    "nameAr": "سُورَةُ العَنكَبُوتِ",
+    "name": "Al-Ankaboot",
+    "revelation": "Makkah",
+    "versesCount": 69
+  },
+  {
+    "id": 30,
+    "nameAr": "سُورَةُ الرُّومِ",
+    "name": "Ar-Room",
+    "revelation": "Makkah",
+    "versesCount": 60
+  },
+  {
+    "id": 31,
+    "nameAr": "سُورَةُ لُقۡمَانَ",
+    "name": "Luqman",
+    "revelation": "Makkah",
+    "versesCount": 34
+  },
+  {
+    "id": 32,
+    "nameAr": "سُورَةُ السَّجۡدَةِ",
+    "name": "As-Sajda",
+    "revelation": "Makkah",
+    "versesCount": 30
+  },
+  {
+    "id": 33,
+    "nameAr": "سُورَةُ الأَحۡزَابِ",
+    "name": "Al-Ahzaab",
+    "revelation": "Madinah",
+    "versesCount": 73
+  },
+  {
+    "id": 34,
+    "nameAr": "سُورَةُ سَبَإٍ",
+    "name": "Saba",
+    "revelation": "Makkah",
+    "versesCount": 54
+  },
+  {
+    "id": 35,
+    "nameAr": "سُورَةُ فَاطِرٍ",
+    "name": "Faatir",
+    "revelation": "Makkah",
+    "versesCount": 45
+  },
+  {
+    "id": 36,
+    "nameAr": "سُورَةُ يسٓ",
+    "name": "Yaseen",
+    "revelation": "Makkah",
+    "versesCount": 83
+  },
+  {
+    "id": 37,
+    "nameAr": "سُورَةُ الصَّافَّاتِ",
+    "name": "As-Saaffaat",
+    "revelation": "Makkah",
+    "versesCount": 182
+  },
+  {
+    "id": 38,
+    "nameAr": "سُورَةُ صٓ",
+    "name": "Saad",
+    "revelation": "Makkah",
+    "versesCount": 88
+  },
+  {
+    "id": 39,
+    "nameAr": "سُورَةُ الزُّمَرِ",
+    "name": "Az-Zumar",
+    "revelation": "Makkah",
+    "versesCount": 75
+  },
+  {
+    "id": 40,
+    "nameAr": "سُورَةُ غَافِرٍ",
+    "name": "Ghafir",
+    "revelation": "Makkah",
+    "versesCount": 85
+  },
+  {
+    "id": 41,
+    "nameAr": "سُورَةُ فُصِّلَتۡ",
+    "name": "Fussilat",
+    "revelation": "Makkah",
+    "versesCount": 54
+  },
+  {
+    "id": 42,
+    "nameAr": "سُورَةُ الشُّورَىٰ",
+    "name": "Ash-Shura",
+    "revelation": "Makkah",
+    "versesCount": 53
+  },
+  {
+    "id": 43,
+    "nameAr": "سُورَةُ الزُّخۡرُفِ",
+    "name": "Az-Zukhruf",
+    "revelation": "Makkah",
+    "versesCount": 89
+  },
+  {
+    "id": 44,
+    "nameAr": "سُورَةُ الدُّخَانِ",
+    "name": "Ad-Dukhaan",
+    "revelation": "Makkah",
+    "versesCount": 59
+  },
+  {
+    "id": 45,
+    "nameAr": "سُورَةُ الجَاثِيَةِ",
+    "name": "Al-Jaathiya",
+    "revelation": "Makkah",
+    "versesCount": 37
+  },
+  {
+    "id": 46,
+    "nameAr": "سُورَةُ الأَحۡقَافِ",
+    "name": "Al-Ahqaf",
+    "revelation": "Makkah",
+    "versesCount": 35
+  },
+  {
+    "id": 47,
+    "nameAr": "سُورَةُ مُحَمَّدٍ",
+    "name": "Muhammad",
+    "revelation": "Madinah",
+    "versesCount": 38
+  },
+  {
+    "id": 48,
+    "nameAr": "سُورَةُ الفَتۡحِ",
+    "name": "Al-Fath",
+    "revelation": "Madinah",
+    "versesCount": 29
+  },
+  {
+    "id": 49,
+    "nameAr": "سُورَةُ الحُجُرَاتِ",
+    "name": "Al-Hujuraat",
+    "revelation": "Madinah",
+    "versesCount": 18
+  },
+  {
+    "id": 50,
+    "nameAr": "سُورَةُ قٓ",
+    "name": "Qaaf",
+    "revelation": "Makkah",
+    "versesCount": 45
+  },
+  {
+    "id": 51,
+    "nameAr": "سُورَةُ الذَّارِيَاتِ",
+    "name": "Adh-Dhaariyat",
+    "revelation": "Makkah",
+    "versesCount": 60
+  },
+  {
+    "id": 52,
+    "nameAr": "سُورَةُ الطُّورِ",
+    "name": "At-Tur",
+    "revelation": "Makkah",
+    "versesCount": 49
+  },
+  {
+    "id": 53,
+    "nameAr": "سُورَةُ النَّجۡمِ",
+    "name": "An-Najm",
+    "revelation": "Makkah",
+    "versesCount": 62
+  },
+  {
+    "id": 54,
+    "nameAr": "سُورَةُ القَمَرِ",
+    "name": "Al-Qamar",
+    "revelation": "Makkah",
+    "versesCount": 55
+  },
+  {
+    "id": 55,
+    "nameAr": "سُورَةُ الرَّحۡمَٰن",
+    "name": "Ar-Rahmaan",
+    "revelation": "Madinah",
+    "versesCount": 78
+  },
+  {
+    "id": 56,
+    "nameAr": "سُورَةُ الوَاقِعَةِ",
+    "name": "Al-Waaqia",
+    "revelation": "Makkah",
+    "versesCount": 96
+  },
+  {
+    "id": 57,
+    "nameAr": "سُورَةُ الحَدِيدِ",
+    "name": "Al-Hadid",
+    "revelation": "Madinah",
+    "versesCount": 29
+  },
+  {
+    "id": 58,
+    "nameAr": "سُورَةُ المُجَادلَةِ",
+    "name": "Al-Mujaadila",
+    "revelation": "Madinah",
+    "versesCount": 22
+  },
+  {
+    "id": 59,
+    "nameAr": "سُورَةُ الحَشۡرِ",
+    "name": "Al-Hashr",
+    "revelation": "Madinah",
+    "versesCount": 24
+  },
+  {
+    "id": 60,
+    "nameAr": "سُورَةُ المُمۡتَحنَةِ",
+    "name": "Al-Mumtahana",
+    "revelation": "Madinah",
+    "versesCount": 13
+  },
+  {
+    "id": 61,
+    "nameAr": "سُورَةُ الصَّفِّ",
+    "name": "As-Saff",
+    "revelation": "Madinah",
+    "versesCount": 14
+  },
+  {
+    "id": 62,
+    "nameAr": "سُورَةُ الجُمُعَةِ",
+    "name": "Al-Jumu'a",
+    "revelation": "Madinah",
+    "versesCount": 11
+  },
+  {
+    "id": 63,
+    "nameAr": "سُورَةُ المُنَافِقُونَ",
+    "name": "Al-Munaafiqoon",
+    "revelation": "Madinah",
+    "versesCount": 11
+  },
+  {
+    "id": 64,
+    "nameAr": "سُورَةُ التَّغَابُنِ",
+    "name": "At-Taghaabun",
+    "revelation": "Madinah",
+    "versesCount": 18
+  },
+  {
+    "id": 65,
+    "nameAr": "سُورَةُ الطَّلَاقِ",
+    "name": "At-Talaaq",
+    "revelation": "Madinah",
+    "versesCount": 12
+  },
+  {
+    "id": 66,
+    "nameAr": "سُورَةُ التَّحۡرِيمِ",
+    "name": "At-Tahrim",
+    "revelation": "Madinah",
+    "versesCount": 12
+  },
+  {
+    "id": 67,
+    "nameAr": "سُورَةُ المُلۡكِ",
+    "name": "Al-Mulk",
+    "revelation": "Makkah",
+    "versesCount": 30
+  },
+  {
+    "id": 68,
+    "nameAr": "سُورَةُ القَلَمِ",
+    "name": "Al-Qalam",
+    "revelation": "Makkah",
+    "versesCount": 52
+  },
+  {
+    "id": 69,
+    "nameAr": "سُورَةُ الحَاقَّةِ",
+    "name": "Al-Haaqqa",
+    "revelation": "Makkah",
+    "versesCount": 52
+  },
+  {
+    "id": 70,
+    "nameAr": "سُورَةُ المَعَارِجِ",
+    "name": "Al-Ma'aarij",
+    "revelation": "Makkah",
+    "versesCount": 44
+  },
+  {
+    "id": 71,
+    "nameAr": "سُورَةُ نُوحٍ",
+    "name": "Nooh",
+    "revelation": "Makkah",
+    "versesCount": 28
+  },
+  {
+    "id": 72,
+    "nameAr": "سُورَةُ الجِنِّ",
+    "name": "Al-Jinn",
+    "revelation": "Makkah",
+    "versesCount": 28
+  },
+  {
+    "id": 73,
+    "nameAr": "سُورَةُ المُزَّمِّلِ",
+    "name": "Al-Muzzammil",
+    "revelation": "Makkah",
+    "versesCount": 20
+  },
+  {
+    "id": 74,
+    "nameAr": "سُورَةُ المُدَّثِّرِ",
+    "name": "Al-Muddaththir",
+    "revelation": "Makkah",
+    "versesCount": 56
+  },
+  {
+    "id": 75,
+    "nameAr": "سُورَةُ القِيَامَةِ",
+    "name": "Al-Qiyaama",
+    "revelation": "Makkah",
+    "versesCount": 40
+  },
+  {
+    "id": 76,
+    "nameAr": "سُورَةُ الإِنسَانِ",
+    "name": "Al-Insaan",
+    "revelation": "Madinah",
+    "versesCount": 31
+  },
+  {
+    "id": 77,
+    "nameAr": "سُورَةُ المُرۡسَلَاتِ",
+    "name": "Al-Mursalaat",
+    "revelation": "Makkah",
+    "versesCount": 50
+  },
+  {
+    "id": 78,
+    "nameAr": "سُورَةُ النَّبَإِ",
+    "name": "An-Naba",
+    "revelation": "Makkah",
+    "versesCount": 40
+  },
+  {
+    "id": 79,
+    "nameAr": "سُورَةُ النَّازِعَاتِ",
+    "name": "An-Naazi'aat",
+    "revelation": "Makkah",
+    "versesCount": 46
+  },
+  {
+    "id": 80,
+    "nameAr": "سُورَةُ عَبَسَ",
+    "name": "Abasa",
+    "revelation": "Makkah",
+    "versesCount": 42
+  },
+  {
+    "id": 81,
+    "nameAr": "سُورَةُ التَّكۡوِيرِ",
+    "name": "At-Takwir",
+    "revelation": "Makkah",
+    "versesCount": 29
+  },
+  {
+    "id": 82,
+    "nameAr": "سُورَةُ الانفِطَارِ",
+    "name": "Al-Infitaar",
+    "revelation": "Makkah",
+    "versesCount": 19
+  },
+  {
+    "id": 83,
+    "nameAr": "سُورَةُ المُطَفِّفِينَ",
+    "name": "Al-Mutaffifin",
+    "revelation": "Makkah",
+    "versesCount": 36
+  },
+  {
+    "id": 84,
+    "nameAr": "سُورَةُ الانشِقَاقِ",
+    "name": "Al-Inshiqaaq",
+    "revelation": "Makkah",
+    "versesCount": 25
+  },
+  {
+    "id": 85,
+    "nameAr": "سُورَةُ البُرُوجِ",
+    "name": "Al-Burooj",
+    "revelation": "Makkah",
+    "versesCount": 22
+  },
+  {
+    "id": 86,
+    "nameAr": "سُورَةُ الطَّارِقِ",
+    "name": "At-Taariq",
+    "revelation": "Makkah",
+    "versesCount": 17
+  },
+  {
+    "id": 87,
+    "nameAr": "سُورَةُ الأَعۡلَىٰ",
+    "name": "Al-A'laa",
+    "revelation": "Makkah",
+    "versesCount": 19
+  },
+  {
+    "id": 88,
+    "nameAr": "سُورَةُ الغَاشِيَةِ",
+    "name": "Al-Ghaashiya",
+    "revelation": "Makkah",
+    "versesCount": 26
+  },
+  {
+    "id": 89,
+    "nameAr": "سُورَةُ الفَجۡرِ",
+    "name": "Al-Fajr",
+    "revelation": "Makkah",
+    "versesCount": 30
+  },
+  {
+    "id": 90,
+    "nameAr": "سُورَةُ البَلَدِ",
+    "name": "Al-Balad",
+    "revelation": "Makkah",
+    "versesCount": 20
+  },
+  {
+    "id": 91,
+    "nameAr": "سُورَةُ الشَّمۡسِ",
+    "name": "Ash-Shams",
+    "revelation": "Makkah",
+    "versesCount": 15
+  },
+  {
+    "id": 92,
+    "nameAr": "سُورَةُ اللَّيۡلِ",
+    "name": "Al-Lail",
+    "revelation": "Makkah",
+    "versesCount": 21
+  },
+  {
+    "id": 93,
+    "nameAr": "سُورَةُ الضُّحَىٰ",
+    "name": "Ad-Dhuhaa",
+    "revelation": "Makkah",
+    "versesCount": 11
+  },
+  {
+    "id": 94,
+    "nameAr": "سُورَةُ الشَّرۡحِ",
+    "name": "Ash-Sharh",
+    "revelation": "Makkah",
+    "versesCount": 8
+  },
+  {
+    "id": 95,
+    "nameAr": "سُورَةُ التِّينِ",
+    "name": "At-Tin",
+    "revelation": "Makkah",
+    "versesCount": 8
+  },
+  {
+    "id": 96,
+    "nameAr": "سُورَةُ العَلَقِ",
+    "name": "Al-Alaq",
+    "revelation": "Makkah",
+    "versesCount": 19
+  },
+  {
+    "id": 97,
+    "nameAr": "سُورَةُ القَدۡرِ",
+    "name": "Al-Qadr",
+    "revelation": "Makkah",
+    "versesCount": 5
+  },
+  {
+    "id": 98,
+    "nameAr": "سُورَةُ البَيِّنَةِ",
+    "name": "Al-Bayyina",
+    "revelation": "Madinah",
+    "versesCount": 8
+  },
+  {
+    "id": 99,
+    "nameAr": "سُورَةُ الزَّلۡزَلَةِ",
+    "name": "Az-Zalzala",
+    "revelation": "Madinah",
+    "versesCount": 8
+  },
+  {
+    "id": 100,
+    "nameAr": "سُورَةُ العَادِيَاتِ",
+    "name": "Al-Aadiyaat",
+    "revelation": "Makkah",
+    "versesCount": 11
+  },
+  {
+    "id": 101,
+    "nameAr": "سُورَةُ القَارِعَةِ",
+    "name": "Al-Qaari'a",
+    "revelation": "Makkah",
+    "versesCount": 11
+  },
+  {
+    "id": 102,
+    "nameAr": "سُورَةُ التَّكَاثُرِ",
+    "name": "At-Takaathur",
+    "revelation": "Makkah",
+    "versesCount": 8
+  },
+  {
+    "id": 103,
+    "nameAr": "سُورَةُ العَصۡرِ",
+    "name": "Al-Asr",
+    "revelation": "Makkah",
+    "versesCount": 3
+  },
+  {
+    "id": 104,
+    "nameAr": "سُورَةُ الهُمَزَةِ",
+    "name": "Al-Humaza",
+    "revelation": "Makkah",
+    "versesCount": 9
+  },
+  {
+    "id": 105,
+    "nameAr": "سُورَةُ الفِيلِ",
+    "name": "Al-Fil",
+    "revelation": "Makkah",
+    "versesCount": 5
+  },
+  {
+    "id": 106,
+    "nameAr": "سُورَةُ قُرَيۡشٍ",
+    "name": "Quraish",
+    "revelation": "Makkah",
+    "versesCount": 4
+  },
+  {
+    "id": 107,
+    "nameAr": "سُورَةُ المَاعُونِ",
+    "name": "Al-Maa'un",
+    "revelation": "Makkah",
+    "versesCount": 7
+  },
+  {
+    "id": 108,
+    "nameAr": "سُورَةُ الكَوۡثَرِ",
+    "name": "Al-Kawthar",
+    "revelation": "Makkah",
+    "versesCount": 3
+  },
+  {
+    "id": 109,
+    "nameAr": "سُورَةُ الكَافِرُونَ",
+    "name": "Al-Kaafiroon",
+    "revelation": "Makkah",
+    "versesCount": 6
+  },
+  {
+    "id": 110,
+    "nameAr": "سُورَةُ النَّصۡرِ",
+    "name": "An-Nasr",
+    "revelation": "Madinah",
+    "versesCount": 3
+  },
+  {
+    "id": 111,
+    "nameAr": "سُورَةُ المَسَدِ",
+    "name": "Al-Masad",
+    "revelation": "Makkah",
+    "versesCount": 5
+  },
+  {
+    "id": 112,
+    "nameAr": "سُورَةُ الإِخۡلَاصِ",
+    "name": "Al-Ikhlaas",
+    "revelation": "Makkah",
+    "versesCount": 4
+  },
+  {
+    "id": 113,
+    "nameAr": "سُورَةُ الفَلَقِ",
+    "name": "Al-Falaq",
+    "revelation": "Makkah",
+    "versesCount": 5
+  },
+  {
+    "id": 114,
+    "nameAr": "سُورَةُ النَّاسِ",
+    "name": "An-Naas",
+    "revelation": "Makkah",
+    "versesCount": 6
+  }
+]
